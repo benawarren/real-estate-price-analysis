@@ -34,5 +34,11 @@ The ability to accurately predict home values using machine learning models has 
 
 ### Repo contains...
 - Data processing
+      - CrimeDataProcessing
+      - SalesDataProcessing
+      - CommerceDataProcessing
 - Exploratory Data Analysis
+      - SalesEDA
+      - GeospatialEDA
+      - NeighborhoodDataEDA
 - Modeling
