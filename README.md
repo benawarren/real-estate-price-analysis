@@ -7,7 +7,7 @@ The ability to accurately predict home values using machine learning models has 
 - Median income, educational attainment, and racial demographics are some of the neighborhood features that most influence home prices.
 - Location is important, but it isn’t everything. There is significant variation in home sales within census tracts.
 
-![Home price violin plot](images/UpdatedViolinPlot)
+![Home price violin plot](images/UpdatedViolinPlot.png)
 
 ### Methods
 - Compiled and harmonized home sales data from 2000-2025 for three U.S. cities – Philadelphia, Detroit, and Pittsburgh.
