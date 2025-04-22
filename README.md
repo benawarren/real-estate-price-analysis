@@ -1,5 +1,6 @@
 # Location, Location, Location: Predicting Home Values Using Neighborhood-Level Machine Learning Models 
 ![boathouseRow](https://github.com/user-attachments/assets/3e2e6035-1311-40c2-9cac-bb07c16faafa)
+*Image courtesy of Khurt L. Williams, CC-BY-NC 4.0* 
 
 ### Project description
 The ability to accurately predict home values using machine learning models has been heavily studied in economics and data science literature. Most of this research focuses on using characteristics of the home itself – square footage, bedrooms, bathrooms – to fine-tune regression models. Recent advances in the field apply cutting-edge ML techniques like neural networks, decision trees, and support vector machines to this problem. **However, the extent to which neighborhood-level characteristics alone explain home values remains unexplored.**
