@@ -36,9 +36,9 @@ The ability to accurately predict home values using machine learning models has 
 *clean merged data set available upon request
 
 ### Repo contains...
-- Data processing: CrimeDataProcessing, SalesDataProcessing, CommerceDataProcessing
+- Data processing: Data Clean Up & Regressions, CrimeDataProcessing, SalesDataProcessing, CommerceDataProcessing
 - Exploratory Data Analysis: SalesEDA, GeospatialEDA, NeighborhoodDataEDA
-- Modeling: 
+- Modeling: RandomForestRegression, SVRModeling
 
 
 ### Some visualizations
